@@ -1,6 +1,11 @@
 # Getting Started with Create React App
+<img width="862" alt="image" src="https://github.com/reannedcosta/CNN-project-frontend/assets/113350362/581dad74-fdab-492d-bd58-7a4cde2f9f07">
+<img width="849" alt="image" src="https://github.com/reannedcosta/CNN-project-frontend/assets/113350362/cfeea84e-721d-4739-a77a-4c111fcb99a1">
+<img width="865" alt="image" src="https://github.com/reannedcosta/CNN-project-frontend/assets/113350362/8ea8168d-f3c7-4b69-9dd1-bc004c42f3c0">
+<img width="862" alt="image" src="https://github.com/reannedcosta/CNN-project-frontend/assets/113350362/35038f01-c391-4344-9aa8-87819023f62d">
+<img width="863" alt="image" src="https://github.com/reannedcosta/CNN-project-frontend/assets/113350362/279614ba-b584-472d-b9bb-cf078c7816d4">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
